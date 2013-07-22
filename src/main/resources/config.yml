@@ -1,0 +1,3 @@
+# CFRandomTeleport Configuration
+use-worldborder: false
+teleport-on-specific-world: ''
