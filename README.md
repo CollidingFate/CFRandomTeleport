@@ -68,6 +68,6 @@ Simply run `mvn clean install` on the project root to build the plugin.
 Licence
 -------
 
-This project is licensed under a MIT/X11 licence. Please see LICENCE.txt for
+This project is licensed under a MIT/X11 licence. Please see the [licence](LICENCE.txt) for
 more information.
 
